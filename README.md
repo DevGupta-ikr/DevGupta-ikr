@@ -23,12 +23,14 @@ I am constantly trying to learn web developement and working on gaining efficien
 
 Languages I am "learning" and use are:
 
-:zap:Java
+:zap: Java
   
-:airplane:HTML 
+:book: C
+
+:airplane: HTML 
  
-CSS
+:guitar: CSS
   
 :heart: Javascript
  
-Python
+:dark_sungglasses: Python
