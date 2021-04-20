@@ -33,4 +33,4 @@ Languages I am "learning" and use are:
   
 :heart: Javascript
  
-:dark_sungglasses: Python
+:dark_sunglasses: Python
