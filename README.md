@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! I am Dev Gupta 
+Hello! I am Dev Kumar Gupta 
 
 Currently an UnderGrad student pursuing CSE.
 
