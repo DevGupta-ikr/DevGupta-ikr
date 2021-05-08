@@ -37,9 +37,9 @@ Languages I am "learning" and use are:
 
 <br>
 
-<a href="https://github.com/Krazy-coder4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krazy-coder4&theme=dracula&line_langs_below=1" />
+<a href="https://github.com/DevGupta-ikr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGupta-ikr&theme=dracula&line_langs_below=1" />
 </a>
-<a href="https://github.com/Krazy-coder4">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Krazy-coder4&show_icons=true&theme=dracula&line_height=27" alt="STATS"/>
+<a href="https://github.com/DevGupta-ikr">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevGupta-ikr&show_icons=true&theme=dracula&line_height=27" alt="STATS"/>
 </a>
