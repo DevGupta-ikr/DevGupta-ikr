@@ -36,6 +36,7 @@ Languages I am "learning" and use are:
 :dark_sunglasses: Python
 
 <br>
+<!--
 
 <a href="https://github.com/DevGupta-ikr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGupta-ikr&theme=dracula&line_langs_below=1" />
@@ -43,3 +44,5 @@ Languages I am "learning" and use are:
 <a href="https://github.com/DevGupta-ikr">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevGupta-ikr&show_icons=true&theme=dracula&line_height=27" alt="STATS"/>
 </a>
+
+-->
