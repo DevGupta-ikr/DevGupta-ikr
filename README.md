@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 </h1>
 
 <!--
 **DevGupta-ikr/DevGupta-ikr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! I am Dev Kumar Gupta 
+<h2 align="center"> I am Dev Kumar Gupta <span> 👨‍💻 </span></h2> 
 
 Currently an UnderGrad student pursuing CSE.
 
@@ -33,7 +33,7 @@ Languages I am "learning" and use are:
   
 :heart: Javascript
 
-:dark_sunglasses: Python
+<!--:dark_sunglasses: Python -->
 
 <br>
 <!--
