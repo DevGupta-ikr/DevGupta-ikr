@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Currently an UnderGrad student pursuing CSE.
 
-I am currently learning web developement and working on gaining efficient skills.
+I am currently learning web development and working on gaining efficient skills.
 
 Languages I am also "learning" and use are:
 
