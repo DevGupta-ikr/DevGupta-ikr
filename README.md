@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 Currently an UnderGrad student pursuing CSE.
 
-I am currently learning web development and working on gaining efficient skills.
+I am currently learning web development and making UI/UX Projects.
 
-Languages I am also "learning" and use are:
+Languages:
 
 :zap: Java
   
@@ -36,13 +36,17 @@ Languages I am also "learning" and use are:
 <!--:dark_sunglasses: Python -->
 
 <br>
-<!--
 
+<!--
 <a href="https://github.com/DevGupta-ikr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGupta-ikr&theme=dracula&line_langs_below=1" />
 </a>
+
+-->
+
 <a href="https://github.com/DevGupta-ikr">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevGupta-ikr&show_icons=true&theme=dracula&line_height=27" alt="STATS"/>
 </a>
 
--->
+
+![Metrics](https://metrics.lecoq.io/DevGupta-ikr?template=classic&base.community=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta&config.animated=true)
