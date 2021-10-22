@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Currently an UnderGrad student pursuing CSE.
 
-I am currently learning web development and making UI/UX Projects.
+I am currently learning data science and making UI/UX Projects.
 
 Languages:
 
@@ -27,14 +27,8 @@ Languages:
   
 :book: C
 
-:airplane: HTML 
+:airplane: Python 
  
-:guitar: CSS
-  
-:heart: Javascript
-
-<!--:dark_sunglasses: Python -->
-
 <br>
 
 <!--
@@ -45,7 +39,7 @@ Languages:
 -->
 
 <a href="https://github.com/DevGupta-ikr">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevGupta-ikr&show_icons=true&theme=dracula&line_height=27" alt="STATS"/>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevGupta-ikr&show_icons=true&theme=dracula&line_height=27" alt="STATS"/>
 </a>
 
 
