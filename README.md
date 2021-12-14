@@ -38,6 +38,8 @@ Languages:
 
 -->
 
+<!-- ![](https://komarev.com/ghpvc/?username=DevGupta-ikr) -->
+
 <a href="https://github.com/DevGupta-ikr">
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevGupta-ikr&show_icons=true&theme=dracula&line_height=27" alt="STATS"/>
 </a>
